@@ -1,0 +1,15 @@
+
+.img-fluid{
+	width: 100%;
+}
+.breadcrumb-item {
+	float: right;
+}
+
+
+
+@media (min-width: 576px){
+	.container {
+		max-width: 100%;
+	}
+}
