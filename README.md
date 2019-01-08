@@ -11,3 +11,6 @@
 # Database
 
 ใน database ใน folder db ชือไฟล์ **db_books.sql**
+
+> `Usename : admin`  
+> `Password : admin`
